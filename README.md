@@ -1,5 +1,7 @@
 # Brain MRI Segmentation 🧠
 
+https://github.com/Pegah-Ardehkhani/Brain-MRI-Segmentation/blob/main/Brain%20MRI%20Segmentation.ipynb
+
 <p align="center">
   <img width="500" height="300" src="https://mateuszbuda.github.io/images/brainseg/CS_6668.gif">
 </p>
